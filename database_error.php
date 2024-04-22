@@ -1,4 +1,6 @@
-<!<!doctype html>
+
+//File called by database.php
+<!doctype html>
 <html>
     <head>
         <title>Customer Invoices.</title>
